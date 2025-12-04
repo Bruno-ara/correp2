@@ -1,2 +1,2 @@
-# corrpep2
+# correp2
 Aplicativo mobile para mostrar informações sobre corridas de ruas situadas no municipio de Pedro - II.
